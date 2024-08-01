@@ -1,0 +1,8 @@
+##NAME_CONTAINS
+aaaa
+##NAME_EQ
+bbbb
+##URL_EQ
+cccc
+##URL_CONTAINS
+dddd
