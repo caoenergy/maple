@@ -72,9 +72,6 @@ SCTV-9,http://sc.rrs.169ol.com:80/PLTV/88888888/224/3221227403/index.m3u8
 德阳新闻,https://epg.pw/stream/9a0ac741c616714bd84f497d566c39f4ea76e9b1dbb23aa046eb25b8f43c556d.m3u8
 乐至综合,http://175.155.106.72:89/live1/live1.m3u8?zsicd
 什邡新闻,http://live.sfrmt.com:85/live/zhpd.m3u8?zsicd
-泸州新闻,http://lxfile.lxxcb.cn/nmip-media/channellive/channel103799/playlist.m3u8?zsicd
-泸州公共,http://m3u8.channel.luzhoubs.com/nmip-media/channellive/channel102221/playlist.m3u8
-泸州科教,http://m3u8.channel.luzhoubs.com/nmip-media/channellive/channel103074/playlist.m3u8
 德阳公共,http://scdytv.cn:1935/live/m_ggpd_livevideo/playlist.m3u8?zsicd
 德阳新闻综合,http://scdytv.cn:1935/live/m_xwpd_livevideo/playlist.m3u8
 V4-港澳台,#genre#
