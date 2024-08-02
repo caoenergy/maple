@@ -1,4 +1,5 @@
 ##NAME_CONTAINS
+SKYNEWS
 教育
 学生
 乐游
