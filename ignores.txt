@@ -25,6 +25,7 @@ SKYNEWS
 之声
 之音
 梨园
+AMERICA
 CGTN
 CETV
 180
