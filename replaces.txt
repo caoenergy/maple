@@ -11,9 +11,9 @@
 CCTV##CCTV-
 CCTV--##CCTV-
 CCTV-_##CCTV-
-黑龙江##CCTV-黑龙
-龙江##CCTV-黑龙
-黑龙##CCTV-黑龙江
+黑龙江##黑龙
+龙江##黑龙
+黑龙##黑龙江
 [SD]##
 [BD]##
 [HD]##
