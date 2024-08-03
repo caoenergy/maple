@@ -25,6 +25,7 @@ SKYNEWS
 之声
 之音
 梨园
+清晰版
 RADIO
 AMERICA
 CGTN
