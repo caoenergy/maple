@@ -1,5 +1,4 @@
 ##NAME_CONTAINS
-SKYNEWS
 教育
 学生
 乐游
@@ -10,7 +9,6 @@ SKYNEWS
 韶关
 国际
 汽车
-
 庆元
 精选
 康定
@@ -58,6 +56,7 @@ SKYNEWS
 乌鲁木齐
 齐齐哈尔
 平凉
+SKYNEWS
 BESTV
 BILLIARDS
 BBC
