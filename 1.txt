@@ -148,20 +148,10 @@ V4-卫视,#genre#
 新疆卫视,http://110.241.188.219:808/hls/43/index.m3u8
 新疆卫视,https://epg.pw/stream/ff921b905e5d0b1628a06f833e0de3632ce26572350b4c077f113e171d27bffe.m3u8
 新疆卫视,https://stream1.freetv.fun/0723d03126108bc85e530dbb12b7d72c5f6e863378e0dbc5881bc4a096b322d2.m3u8
-西藏卫视,http://sc.rrs.169ol.com/PLTV/88888888/224/3221227131/index.m3u8
-西藏卫视,https://epg.pw/stream/de379ca26bc8e110b63a57f9d4b17db2fdb54047b99679d4c5434d1330b3d0d9.m3u8
-西藏卫视,https://stream1.freetv.fun/a8e83798e1c1f8ffca8b5c81f9b6cfb6290dedebab63c1355662dbb492ba1c2a.m3u8
 青海卫视,http://sc.rrs.169ol.com/PLTV/88888888/224/3221227123/index.m3u8
 青海卫视,http://124.128.73.58:9901/tsfile/live/0140_1.m3u8
 青海卫视,http://121.18.43.254:10000/hls/57/index.m3u8
 青海卫视,http://stream.qhbtv.com/qhws/sd/live.m3u8
-安多卫视,http://sc.rrs.169ol.com/PLTV/88888888/224/3221227121/index.m3u8
-安多卫视,http://stream.qhbtv.com/adws/sd/live.m3u8
-安多卫视,http://stream.qhbtv.com/adws/playlist.m3u8?_upt=563fa1181721744621
-安多卫视,https://epg.pw/stream/8e4f0385cec55d0651e098bc548a52dd8948995d4c052205c8667df425adb6c9.m3u8
-康巴卫视,http://sc.rrs.169ol.com/PLTV/88888888/224/3221227629/index.m3u8
-康巴卫视,https://epg.pw/stream/4a7f901d517897aa0bf1ff684b61423b1e107da6ea3b0bccc233526fba9cdf99.m3u8
-康巴卫视,https://stream1.freetv.fun/4a7f901d517897aa0bf1ff684b61423b1e107da6ea3b0bccc233526fba9cdf99.m3u8
 黑龙江卫视,http://sc.rrs.169ol.com/PLTV/88888888/224/3221227347/index.m3u8
 黑龙江卫视,http://121.24.98.253:8090/hls/42/index.m3u8
 内蒙古卫视,http://sc.rrs.169ol.com/PLTV/88888888/224/3221227181/index.m3u8
@@ -187,7 +177,6 @@ SCTV-9,http://sc.rrs.169ol.com/PLTV/88888888/224/3221227403/index.m3u8
 乐至综合,http://175.155.106.72:89/live1/live1.m3u8?zsicd
 什邡新闻,http://live.sfrmt.com:85/live/zhpd.m3u8?zsicd
 泸州新闻,http://lxfile.lxxcb.cn/nmip-media/channellive/channel103799/playlist.m3u8?zsicd
-泸州公共,http://m3u8.channel.luzhoubs.com/nmip-media/channellive/channel102221/playlist.m3u8
 泸州科教,http://m3u8.channel.luzhoubs.com/nmip-media/channellive/channel103074/playlist.m3u8
 峨眉电影,http://sc.rrs.169ol.com/PLTV/88888888/224/3221227942/index.m3u8
 广安公共频道,http://live1.gatv.com.cn:85/live/GGPD.m3u8
@@ -297,7 +286,6 @@ V4-其他,#genre#
 十堰新闻,https://p8.vzan.com/slowlive/034028687228317362/live.m3u8
 十堰新闻,https://stream1.freetv.fun/9447224f27b995b42e5354aa08915b6d16e66f4805b7ff8f5b797cf4cd5b6402.m3u8
 十堰经济,https://stream1.freetv.fun/ee00033c62a5696b97d3522d93bb515c860a3d176e3639e1c118f5b2fe1dee2f.m3u8
-十堰经济旅游,https://p8.vzan.com/slowlive/701367497774448672/live.m3u8
 半岛新闻,https://live-hls-web-aje.getaj.net/AJE/01.m3u8
 南乐电视台,http://live.dxhmt.cn:9081/tv/10923-1.m3u8
 南国都市,https://tencentplay.gztv.com/live/nanguodushi.m3u8?txSecret=550af55c0ea34ce492748481415b6dfa&txTime=1903e7b17de
@@ -439,7 +427,6 @@ V4-其他,#genre#
 新闻综合,https://stream1.freetv.fun/be5ce7d687ea1aba7bab0e0bcab040d830a3a0ebc2808f230df3d2c522af1c58.m3u8
 方城一套新闻综合,http://live.dxhmt.cn:9081/tv/11322-1.m3u8
 方城一套新闻综合,http://tvpull.dxhmt.cn:9081/tv/11322-1.m3u8?zhend
-旅游卫视,https://epg.pw/stream/ec4acebcc3eb66ea9f23a8f9024848115d27c6d85681b6142fe5b7359851b2bb.m3u8
 无锡娱乐,http://stream.thmz.com/wxtv2/sd/live.m3u8?zjiangsd
 无锡娱乐,http://stream.thmz.com/wxtv2/playlist.m3u8?_upt=22c8ae641707368797
 无锡新闻综合,http://stream.thmz.com/wxtv1/playlist.m3u8
@@ -504,7 +491,6 @@ V4-其他,#genre#
 汝阳综合频道,http://tvpull.dxhmt.cn:9081/tv/10326-1.m3u8
 江宁新闻频道,https://jiangning-tv-hls.cm.jstv.com/jiangning-tv/jnxwzh.m3u8?zjiangsd
 江宁电视台综合频道,https://jiangning-tv-hls.cm.jstv.com/jiangning-tv/jnxwzh.m3u8
-江津文化旅游,http://222.179.155.21:1935/ch2.m3u8
 江津新闻综合,http://222.179.155.21:1935/ch1.m3u8
 江苏连云港公共,https://live.lyg1.com/ggpd/sd/live.m3u8
 江苏连云港综合,https://live.lyg1.com/zhpd/sd/live.m3u8
@@ -819,7 +805,6 @@ V4-其他,#genre#
 霸州新闻频道,http://hbbz.chinashadt.com:2036/live/stream:bzxw.stream/playlist.m3u8
 霸州新闻频道,https://epg.pw/stream/555097d3a65c149b5398ae60bc057c95494053cd02820a57066640a7aec9a8f2.m3u8
 青岛新闻综合,https://stream1.freetv.fun/52247d75a0d4056938f440965edb33e5bc7582911b83208d131a4271a0414634.m3u8
-青州电视台文化旅游频道,http://sdqz.chinashadt.com:2036/live/stream:3.stream/playlist.m3u8
 青州电视台新闻综合频道,http://sdqz.chinashadt.com:2036/live/stream:1.stream/playlist.m3u8
 青州电视台生活频道,http://sdqz.chinashadt.com:2036/live/stream:2.stream/playlist.m3u8
 青海经视频道,http://stream.qhbtv.com/qhsh/sd/live.m3u8?_upt=0ca7de7f1707366913
@@ -955,10 +940,7 @@ V6-卫视,#genre#
 辽宁卫视,http://[2409:8087:5e00:24::1e]:6060/200000001898/460000089800010061/1.m3u8
 三沙卫视,http://[2409:8087:5e00:24::1e]:6060/000000001000/4600001000000000117/1.m3u8
 新疆卫视,http://[2409:8087:1a0b:df::4005]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225635/index.m3u8
-西藏卫视,http://[2409:8087:5e00:24::1e]:6060/000000001000/6603041244077933770/1.m3u8
 青海卫视,http://[2409:8087:1a0b:df::4002]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225628/index.m3u8
-安多卫视,http://[2409:8087:1a0b:df::4007]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225659/index.m3u8
-康巴卫视,http://[2409:8087:1a0b:df::4005]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225660/index.m3u8
 黑龙江卫视,http://[2409:8087:1a01:df::7005]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226327/index.m3u8
 黑龙江卫视,http://[2409:8087:5e00:24::1e]:6060/200000001898/460000089800010056/1.m3u8
 V6-咪咕,#genre#
