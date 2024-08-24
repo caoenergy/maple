@@ -1,6 +1,5 @@
 V4-央视,#genre#
 CCTV-1,http://sc.rrs.169ol.com/PLTV/88888888/224/3221227479/index.m3u8
-CCTV-1,http://121.24.98.253:8090/hls/9/index.m3u8
 CCTV-2,http://sc.rrs.169ol.com/PLTV/88888888/224/3221227477/index.m3u8
 CCTV-2,https://stream1.freetv.fun/9ae57cd4c14b62284d1867572b5c6d0eb610112cb78cb6bbc286e29f765cc7a5.m3u8
 CCTV-3,http://sc.rrs.169ol.com/PLTV/88888888/224/3221227435/index.m3u8
