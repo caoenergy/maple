@@ -46,9 +46,6 @@ CCTV-16,http://202.100.46.58:9901/tsfile/live/1016_1.m3u8
 CCTV-16,http://123.189.36.7:9901/tsfile/live/1027_1.m3u8
 CCTV-16,http://123.189.36.155:9901/tsfile/live/1027_1.m3u8
 CCTV-17,http://sc.rrs.169ol.com/PLTV/88888888/224/3221227577/index.m3u8
-CCTV-风云足球,https://epg.pw/stream/20c329c5ad4872f9416783144b091c3943c94538393e0fc5f60bc551a06dd372.m3u8
-CCTV-怀旧剧场,http://110.241.188.219:808/hls/56/index.m3u8
-CCTV-怀旧剧场,https://epg.pw/stream/188c041c330736b956fe8f41af7bf90cac0dd06699f977752ac93f0359de4a23.m3u8
 V4-卫视,#genre#
 湖南卫视,http://sc.rrs.169ol.com/PLTV/88888888/224/3221227369/index.m3u8
 湖南卫视,http://121.24.98.226:8090/hls/56/index.m3u8
