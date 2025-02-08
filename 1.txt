@@ -31,7 +31,6 @@ V4-卫视,#genre#
 广东卫视,http://sc.rrs.169ol.com/PLTV/88888888/224/3221227361/index.m3u8
 广西卫视,http://sc.rrs.169ol.com/PLTV/88888888/224/3221227939/index.m3u8
 广西卫视,http://116.9.204.242:9901/tsfile/live/0113_1.m3u8
-广西卫视,https://stream1.freetv.fun/3899ee96bfc51a8e53baa9d48c86b9b9a52907112fffcb33e94df2c05cc02d3c.m3u8
 四川卫视,http://sc.rrs.169ol.com/PLTV/88888888/224/3221227417/index.m3u8
 重庆卫视,http://sc.rrs.169ol.com/PLTV/88888888/224/3221227359/index.m3u8
 贵州卫视,http://sc.rrs.169ol.com/PLTV/88888888/224/3221227357/index.m3u8
@@ -46,8 +45,8 @@ V4-卫视,#genre#
 陕西卫视,http://sc.rrs.169ol.com/PLTV/88888888/224/3221228078/index.m3u8
 山西卫视,http://sc.rrs.169ol.com/PLTV/88888888/224/3221227183/index.m3u8
 宁夏卫视,http://sc.rrs.169ol.com/PLTV/88888888/224/3221227119/index.m3u8
-海南卫视,http://sc.rrs.169ol.com/PLTV/88888888/224/3221227139/index.m3u8
 海南卫视,http://sc.rrs.169ol.com/PLTV/88888888/224/3221227958/index.m3u8
+海南卫视,http://sc.rrs.169ol.com/PLTV/88888888/224/3221227139/index.m3u8
 甘肃卫视,http://sc.rrs.169ol.com/PLTV/88888888/224/3221227937/index.m3u8
 辽宁卫视,http://sc.rrs.169ol.com/PLTV/88888888/224/3221227345/index.m3u8
 辽宁卫视,http://dassby.qqff.top:99/live/辽宁卫视高清/index.m3u8
@@ -61,8 +60,8 @@ SCTV-2,http://sc.rrs.169ol.com/PLTV/88888888/224/3221227415/index.m3u8
 SCTV-3,http://sc.rrs.169ol.com/PLTV/88888888/224/3221227413/index.m3u8
 SCTV-4,http://sc.rrs.169ol.com/PLTV/88888888/224/3221227411/index.m3u8
 SCTV-5,http://sc.rrs.169ol.com/PLTV/88888888/224/3221227409/index.m3u8
-SCTV-6,http://sc.rrs.169ol.com/PLTV/88888888/224/3221227405/index.m3u8
 SCTV-6,http://sc.rrs.169ol.com/PLTV/88888888/224/3221227407/index.m3u8
+SCTV-6,http://sc.rrs.169ol.com/PLTV/88888888/224/3221227405/index.m3u8
 SCTV-8,http://sc.rrs.169ol.com/PLTV/88888888/224/3221227936/index.m3u8
 SCTV-9,http://sc.rrs.169ol.com/PLTV/88888888/224/3221227403/index.m3u8
 CDTV-1,http://sc.rrs.169ol.com/PLTV/88888888/224/3221227495/index.m3u8
@@ -87,7 +86,6 @@ CDTV-8,http://sc.rrs.169ol.com/PLTV/88888888/224/3221227920/index.m3u8
 达州新闻综合,http://sc.rrs.169ol.com/PLTV/88888888/224/3221227581/index.m3u8
 宜宾新闻综合,http://sc.rrs.169ol.com/PLTV/88888888/224/3221227541/index.m3u8
 乐山新闻综合,http://sc.rrs.169ol.com/PLTV/88888888/224/3221227537/index.m3u8
-乐山新闻综合,http://m3u8file.lstv.org.cn/nmip-media/channellive/channel1/playlist.m3u8
 绵阳新闻综合,http://sc.rrs.169ol.com/PLTV/88888888/224/3221227521/index.m3u8
 德阳文旅科教,http://sc.rrs.169ol.com/PLTV/88888888/224/3221227555/index.m3u8
 广安公共频道,http://live1.gatv.com.cn:85/live/GGPD.m3u8
@@ -119,7 +117,6 @@ V4-其他,#genre#
 之江纪录,http://ali-m-l.cztv.com/channels/lantian/channel012/1080p.m3u8
 之江纪录,https://ali-m-l.cztv.com/channels/lantian/channel012/1080p.m3u8
 乐山文旅生活,http://m3u8file.lstv.org.cn/nmip-media/channellive/channel12/playlist.m3u8
-云浮文旅,https://livestream.oeeee.com/slive/17807.m3u8
 云霄综合,http://live.zzyxxw.com:85/live/xwzh.m3u8
 五台综合,https://568slnjf.live.sxmty.com/live/hls/90c8b2efeb164cc0a6c2409eed668d6b/f77cbb89ec57435b9ba4c47589c16e4f-1.m3u8
 余姚姚江文化,http://l.cztvcloud.com/channels/lantian/SXyuyao3/720p.m3u8
@@ -139,8 +136,8 @@ V4-其他,#genre#
 十堰新闻,http://p8.vzan.com/slowlive/034028687228317362/live.m3u8
 十堰新闻,https://p8.vzan.com/slowlive/034028687228317362/live.m3u8
 南乐电视台,http://live.dxhmt.cn:9081/tv/10923-1.m3u8
-南京十八,http://live.nbs.cn/channels/njtv/sbpd/500k.m3u8
 南京十八,http://live.nbs.cn/channels/njtv/sbpd/m3u8:500k/live.m3u8
+南京十八,http://live.nbs.cn/channels/njtv/sbpd/500k.m3u8
 南京十八,https://live.nbs.cn/channels/njtv/sbpd/m3u8:500k/live.m3u8
 南京娱乐,https://live.nbs.cn/channels/njtv/ylpd/m3u8:500k/live.m3u8
 南京江宁区,http://jiangning-tv-hls.cm.jstv.com/jiangning-tv/jnxwzh.m3u8
@@ -153,6 +150,7 @@ V4-其他,#genre#
 南宁都市,http://hls.nntv.cn/nnlive/WLSH_24.m3u8
 卡酷动画,http://sc.rrs.169ol.com/PLTV/88888888/224/3221227189/index.m3u8
 原阳新闻综合频道,http://live.dxhmt.cn:9081/tv/10725-1.m3u8
+叙州新闻综合,https://stream1.freetv.fun/dd77fc6560a955ead4b6bda2d962c196cd6ca56795161e1680c8336a475bdb0f.m3u8
 句容党建频道,http://jrlive.jrntv.com/live/_definst_/dangjians/playlist.m3u8
 句容影视,http://jrlive.jrntv.com/live/_definst_/yingshis/playlist.m3u8
 句容新闻综合,http://jrlive.jrntv.com/live/_definst_/jrxwzhs/playlist.m3u8
@@ -162,7 +160,6 @@ V4-其他,#genre#
 叶县电视,http://live.dxhmt.cn:9081/tv/10422-1.m3u8
 吉县新闻综合,http://jxlive.jxrmtzx.com:8091/live/xwzh.m3u8
 吉林桦甸综合,http://stream10.jlntv.cn/huadian/playlist.m3u8
-吉林永吉综合,http://stream10.jlntv.cn/yongji/playlist.m3u8
 吉林磐石综合,http://stream5.jlntv.cn/ps/playlist.m3u8
 吉林舒兰综合,http://stream8.jlntv.cn/shulan/playlist.m3u8
 周口扶沟,http://live.dxhmt.cn:9081/tv/11621-1.m3u8
@@ -205,8 +202,8 @@ V4-其他,#genre#
 广南电视台,http://m3u8.channel.wsrtv.com.cn/cms/videos/nmip-media/channellive/channel19/playlist.m3u8
 广安公共,http://live1.gatv.com.cn:85/live/GGPD_ggpdzm.m3u8
 广西公共,http://116.9.204.242:9901/tsfile/live/1003_1.m3u8
-广西都市,http://116.9.204.242:9901/tsfile/live/1002_1.m3u8
 影视娱乐,http://ali-m-l.cztv.com/channels/lantian/channel005/1080p.m3u8
+扬州江都频道,http://cm-wshls.homecdn.com/live/8c1.m3u8
 扶沟综合,http://tvpull.dxhmt.cn:9081/tv/11621-1.m3u8
 教科影视,http://ali-m-l.cztv.com/channels/lantian/channel004/1080p.m3u8
 新乡,http://live.dxhmt.cn:9081/tv/10721-1.m3u8
@@ -216,8 +213,8 @@ V4-其他,#genre#
 新安电视台综合频道,http://tvpull.dxhmt.cn/tv/10323-1.m3u8
 新密新闻综合,http://live.dxhmt.cn:9081/tv/10183-2.m3u8
 新昌休闲影视,https://l.cztvcloud.com/channels/lantian/SXxinchang2/720p.m3u8
-新昌新闻综合,http://l.cztvcloud.com/channels/lantian/SXxinchang1/720p.m3u8
 新昌新闻综合,https://l.cztvcloud.com/channels/lantian/SXxinchang1/720p.m3u8
+新昌新闻综合,http://l.cztvcloud.com/channels/lantian/SXxinchang1/720p.m3u8
 新昌生活频道,http://l.cztvcloud.com/channels/lantian/SXxinchang2/720p.m3u8
 新沂新闻,http://live.xysrmt.cn/xwzh/sd/live.m3u8
 新沂生活,http://live.xysrmt.cn/shpd/sd/live.m3u8
@@ -254,8 +251,6 @@ V4-其他,#genre#
 春晚2019,https://txmov2.a.kwimgs.com/bs3/video-hls/5222205336887088723_hlshd15.m3u8
 春晚2020,https://txmov2.a.kwimgs.com/bs3/video-hls/5248101009010430183_hlshd15.m3u8
 春晚2023,https://txmov2.a.kwimgs.com/bs3/video-hls/5251197255879398624_hlshd15.m3u8
-晋中公共,http://jzlive.jztvnews.com:90/live/jzgg.m3u8
-晋中综合,http://jzlive.jztvnews.com:90/live/jzzh.m3u8
 普陀电视台,http://l.cztvcloud.com/channels/lantian/SXputuo1/720p.m3u8
 杭州余杭综合,http://l.cztvcloud.com/channels/lantian/SXyuhang1/720p.m3u8
 松原乾安综合,http://stream6.jlntv.cn/qa/playlist.m3u8
@@ -275,15 +270,14 @@ V4-其他,#genre#
 永嘉新闻综合,http://l.cztvcloud.com/channels/lantian/SXyongjia1/720p.m3u8
 汝阳综合频道,http://live.dxhmt.cn:9081/tv/10326-1.m3u8
 汝阳综合频道,http://tvpull.dxhmt.cn:9081/tv/10326-1.m3u8
-江夏新闻,http://59.175.226.142:280/gb28181/xwzh.m3u8
 江宁电视台综合频道,https://jiangning-tv-hls.cm.jstv.com/jiangning-tv/jnxwzh.m3u8
 江苏连云港综合,https://live.lyg1.com/zhpd/sd/live.m3u8
 江阴新闻综合,http://221.228.70.101:8080/live/xinwen.m3u8
 汤阴新闻综合频道,http://live.dxhmt.cn:9081/tv/10523-1.m3u8
-汶川新闻综合,http://live.iwcmt.cn:90/live/zhxw.m3u8
 沁阳新闻综合频道,http://live.dxhmt.cn:9081/tv/10882-1.m3u8
 沈丘新闻综合频道,http://live.dxhmt.cn:9081/tv/11624-1.m3u8
 沛县新闻综合,http://peixian-tv-hls.cm.jstv.com/peixian-tv/pxzh.m3u8
+沧州电视台3套,http://czlive.czgd.tv:85/live/xnst.m3u8
 河源公共,http://tmpstream.hyrtv.cn/hygg/sd/live.m3u8
 河源公共,https://tmpstream.hyrtv.cn/hygg/sd/live.m3u8
 河源综合,http://tmpstream.hyrtv.cn/xwzh/sd/live.m3u8
@@ -298,7 +292,6 @@ V4-其他,#genre#
 济源电视1套,http://live.dxhmt.cn:9081/tv/19001-1.m3u8
 浙江公共,https://ct-m-l.cztv.com/channels/lantian/channel007/1080p.m3u8
 浙江少儿,https://ali-m-l.cztv.com/channels/lantian/channel008/1080p.m3u8
-浙江影视,https://qiniup-m-l.cztv.com/channels/lantian/channel005/1080p.m3u8
 浙江教科,https://ali-m-l.cztv.com/channels/lantian/channel004/1080p.m3u8
 浙江新闻,https://ali-m-l.cztv.com/channels/lantian/channel007/1080p.m3u8
 浙江民生,https://ali-m-l.cztv.com/channels/lantian/channel006/1080p.m3u8
@@ -343,6 +336,7 @@ V4-其他,#genre#
 白山临江综合,http://stream8.jlntv.cn/linjiang/playlist.m3u8
 白山抚松综合,http://stream8.jlntv.cn/fs/playlist.m3u8
 白山江源综合,http://stream10.jlntv.cn/jiangyuantv/playlist.m3u8
+白山靖宇综合,http://stream8.jlntv.cn/jytv/playlist.m3u8
 睢宁资讯,http://suining-tv-hls.cm.jstv.com/suining-tv/suiningys.m3u8
 石景山电视台,https://live.sjsrm.com/bjsjs/sd/live.m3u8
 砚山电视台,http://m3u8.channel.wsrtv.com.cn/cms/videos/nmip-media/channellive/channel16/playlist.m3u8
@@ -351,8 +345,8 @@ V4-其他,#genre#
 禹州综合,http://tvpull.dxhmt.cn:9081/tv/11081-1.m3u8
 精彩影视高清,http://sc.rrs.169ol.com/PLTV/88888888/224/3221227980/index.m3u8
 绍兴公共频道,http://live.shaoxing.com.cn/video/s10001-sxtv2/index.m3u8
-绍兴新闻,http://live.shaoxing.com.cn/video/s10001-sxtv1/index.m3u8
 绍兴新闻,http://live.shaoxing.com.cn/video/s10001-sxhb/index.m3u8
+绍兴新闻,http://live.shaoxing.com.cn/video/s10001-sxtv1/index.m3u8
 经济生活,http://ali-m-l.cztv.com/channels/lantian/channel003/1080p.m3u8
 经济生活,http://stream.qhbtv.com/qhsh/playlist.m3u8
 缙云新闻综合,http://l.cztvcloud.com/channels/lantian/SXjinyun1/720p.m3u8
@@ -360,6 +354,7 @@ V4-其他,#genre#
 罗山电视台,http://live.dxhmt.cn:9081/tv/11521-1.m3u8
 苍南新闻综合,http://l.cztvcloud.com/channels/lantian/SXcangnan1/720p.m3u8
 范县新闻综合,http://live.dxhmt.cn:9080/13603832636/13abd3089d9c47058fe34c49a6182981.m3u8
+获嘉新闻综合频道,http://live.dxhmt.cn:9081/tv/10724-1.m3u8
 营山电视台,http://file.ysxtv.cn/cms/videos/nmip-media/channellive/channel4/playlist.m3u8
 萧山新闻综合,https://l.cztvcloud.com/channels/lantian/SXxiaoshan1/720p.m3u8
 萧山生活频道,http://l.cztvcloud.com/channels/lantian/SXxiaoshan2/720p.m3u8
@@ -400,7 +395,6 @@ V4-其他,#genre#
 鄢陵新闻综合频道,http://live.dxhmt.cn:9081/tv/11024-1.m3u8
 鄢陵综合,http://tvpull.dxhmt.cn:9081/tv/11024-1.m3u8
 金川新闻综合,http://live.jinchuanrmt.com:90/live/zhxw.m3u8
-金湖新闻综合,https://stream1.freetv.fun/8439749fa807ac3697e4c2ad3806fdc913ca1115914ee9ee75f34693e4843b09.m3u8
 金鹰卡通,http://sc.rrs.169ol.com/PLTV/88888888/224/3221227149/index.m3u8
 钱江频道,http://ali-m-l.cztv.com/channels/lantian/channel002/1080p.m3u8
 铜梁综合频道,http://183.64.174.171:40123/ch1.m3u8
@@ -408,6 +402,7 @@ V4-其他,#genre#
 镇江2套社会民生频道,http://zjtv-wshls.homecdn.com/live/2aa16.m3u8
 镇江新闻综合,http://zjtv-wshls.homecdn.com/live/2aa50.m3u8
 长垣新闻综合频道,http://live.dxhmt.cn:9081/tv/10728-1.m3u8
+长春九台区,http://stream10.jlntv.cn/jiutaitv/playlist.m3u8
 长春公主岭综合,http://stream5.jlntv.cn/gzl/playlist.m3u8
 长春双阳综合,http://stream11.jlntv.cn/shuangyang/playlist.m3u8
 长春德惠综合,http://stream11.jlntv.cn/dehuitv/playlist.m3u8
@@ -416,7 +411,6 @@ V4-其他,#genre#
 青州文旅,http://sdqz.chinashadt.com:2036/live/stream:3.stream/playlist.m3u8
 青州电视台新闻综合频道,http://sdqz.chinashadt.com:2036/live/stream:1.stream/playlist.m3u8
 青州电视台生活频道,http://sdqz.chinashadt.com:2036/live/stream:2.stream/playlist.m3u8
-青海都市,https://stream1.freetv.fun/9b0c1cc4f4f67d65e60ca6be16028a33859c142adc2c8fd58751075565c54102.m3u8
 青田电视台,http://l.cztvcloud.com/channels/lantian/SXqingtian1/720p.m3u8
 靖江新闻综合,http://visit.jjbctv.com:1935/live/xwzhmb/playlist.m3u8
 项城新闻,http://tvpull.dxhmt.cn:9081/tv/11681-1.m3u8
