@@ -5,6 +5,7 @@ CCTV-3,http://sc.rrs.169ol.com/PLTV/88888888/224/3221227435/index.m3u8
 CCTV-4,http://sc.rrs.169ol.com/PLTV/88888888/224/3221227373/index.m3u8
 CCTV-5,http://sc.rrs.169ol.com/PLTV/88888888/224/3221227491/index.m3u8
 CCTV-5+,http://sc.rrs.169ol.com/PLTV/88888888/224/3221227493/index.m3u8
+CCTV-5+,https://stream1.freetv.fun/0f7997a9c1542d6a120fa0b438502b1d74023e88e38b3555ab20aaa0bf0b591d.m3u8
 CCTV-6,http://sc.rrs.169ol.com/PLTV/88888888/224/3221227431/index.m3u8
 CCTV-7,http://sc.rrs.169ol.com/PLTV/88888888/224/3221227429/index.m3u8
 CCTV-8,http://sc.rrs.169ol.com/PLTV/88888888/224/3221227427/index.m3u8
@@ -29,6 +30,7 @@ V4-卫视,#genre#
 深圳卫视,http://sc.rrs.169ol.com/PLTV/88888888/224/3221227419/index.m3u8
 广东卫视,http://sc.rrs.169ol.com/PLTV/88888888/224/3221227361/index.m3u8
 广西卫视,http://sc.rrs.169ol.com/PLTV/88888888/224/3221227939/index.m3u8
+广西卫视,http://116.9.204.242:9901/tsfile/live/0113_1.m3u8
 四川卫视,http://sc.rrs.169ol.com/PLTV/88888888/224/3221227417/index.m3u8
 重庆卫视,http://sc.rrs.169ol.com/PLTV/88888888/224/3221227359/index.m3u8
 贵州卫视,http://sc.rrs.169ol.com/PLTV/88888888/224/3221227357/index.m3u8
@@ -40,12 +42,11 @@ V4-卫视,#genre#
 吉林卫视,http://sc.rrs.169ol.com/PLTV/88888888/224/3221227935/index.m3u8
 河北卫视,http://sc.rrs.169ol.com/PLTV/88888888/224/3221227399/index.m3u8
 河南卫视,http://sc.rrs.169ol.com/PLTV/88888888/224/3221227923/index.m3u8
-河南卫视,https://stream1.freetv.fun/ea842ab34e6da31e0eae5bd8be6c4b7d67f0b0c214efaca7ff2c5a1718f7fe55.m3u8
 陕西卫视,http://sc.rrs.169ol.com/PLTV/88888888/224/3221228078/index.m3u8
 山西卫视,http://sc.rrs.169ol.com/PLTV/88888888/224/3221227183/index.m3u8
 宁夏卫视,http://sc.rrs.169ol.com/PLTV/88888888/224/3221227119/index.m3u8
-海南卫视,http://sc.rrs.169ol.com/PLTV/88888888/224/3221227958/index.m3u8
 海南卫视,http://sc.rrs.169ol.com/PLTV/88888888/224/3221227139/index.m3u8
+海南卫视,http://sc.rrs.169ol.com/PLTV/88888888/224/3221227958/index.m3u8
 甘肃卫视,http://sc.rrs.169ol.com/PLTV/88888888/224/3221227937/index.m3u8
 辽宁卫视,http://sc.rrs.169ol.com/PLTV/88888888/224/3221227345/index.m3u8
 辽宁卫视,http://dassby.qqff.top:99/live/辽宁卫视高清/index.m3u8
@@ -86,14 +87,12 @@ CDTV-8,http://sc.rrs.169ol.com/PLTV/88888888/224/3221227920/index.m3u8
 乐山新闻综合,http://m3u8file.lstv.org.cn/nmip-media/channellive/channel1/playlist.m3u8
 绵阳新闻综合,http://sc.rrs.169ol.com/PLTV/88888888/224/3221227521/index.m3u8
 德阳文旅科教,http://sc.rrs.169ol.com/PLTV/88888888/224/3221227555/index.m3u8
-广安公共频道,http://live1.gatv.com.cn:85/live/GGPD.m3u8
 广安新闻综合,http://sc.rrs.169ol.com/PLTV/88888888/224/3221227543/index.m3u8
 广安新闻综合,http://live1.gatv.com.cn:85/live/XWZH.m3u8
 V4-港澳台,#genre#
 面包台,https://video.bread-tv.com:8091/hls-live24/online/index.m3u8
 V4-体育,#genre#
 先锋乒羽,http://sc.rrs.169ol.com/PLTV/88888888/224/3221227967/index.m3u8
-安徽综艺体育,http://112.30.194.221:20080/live/c41f112b83f644ddb082669501c8ecd3/hls.m3u8
 辽宁体育,http://dassby.qqff.top:99/live/辽宁体育/index.m3u8
 V4-CHC,#genre#
 家庭影院,http://sc.rrs.169ol.com/PLTV/88888888/224/3221227986/index.m3u8
@@ -140,8 +139,8 @@ NEI_MONGGOL_TV_2_MONGOLIAN_CULTURE_CHANNEL,http://1.183.141.194:8001/hls/54/inde
 十堰新闻,http://p8.vzan.com/slowlive/034028687228317362/live.m3u8
 十堰新闻,https://p8.vzan.com/slowlive/034028687228317362/live.m3u8
 南乐电视台,http://live.dxhmt.cn:9081/tv/10923-1.m3u8
-南京十八,http://live.nbs.cn/channels/njtv/sbpd/500k.m3u8
 南京十八,http://live.nbs.cn/channels/njtv/sbpd/m3u8:500k/live.m3u8
+南京十八,http://live.nbs.cn/channels/njtv/sbpd/500k.m3u8
 南京十八,https://live.nbs.cn/channels/njtv/sbpd/m3u8:500k/live.m3u8
 南宁公共,http://hls.nntv.cn/nnlive/GGPD_24.m3u8
 南宁公共,https://hls.nntv.cn/nnlive/GGPD_24.m3u8
@@ -203,11 +202,10 @@ NEI_MONGGOL_TV_2_MONGOLIAN_CULTURE_CHANNEL,http://1.183.141.194:8001/hls/54/inde
 广州竞赛,https://tencentplay.gztv.com/live/jingsai.m3u8?txSecret=9be68e7c35579d02d11f6968531343ea&txTime=1903ea2dd6a
 广州综合,https://tencentplay.gztv.com/live/zonghes.m3u8?txSecret=9e5008d4b91944fa76a957a93ae54870&txTime=1903e5f1cfd
 广西公共,http://116.9.204.242:9901/tsfile/live/1003_1.m3u8
-广西影视,http://116.9.204.242:9901/tsfile/live/0124_1.m3u8
 广西新闻,http://116.9.204.242:9901/tsfile/live/1001_1.m3u8
+广西新闻,https://stream1.freetv.fun/de96225e50d54fc90e9b91576bd78c81e9c2d2a0e92b1060e4a6a79e961cc5e7.m3u8
 广西都市,http://116.9.204.242:9901/tsfile/live/1002_1.m3u8
 怒江新闻,http://livebroadcast.ccwb.cn/live/w1620805130988936.m3u8
-扬州江都频道,http://cm-wshls.homecdn.com/live/8c1.m3u8
 扶沟综合,http://tvpull.dxhmt.cn:9081/tv/11621-1.m3u8
 新乡,http://live.dxhmt.cn:9081/tv/10721-1.m3u8
 新乡县电视台,http://tvpull.dxhmt.cn:9081/tv/10721-1.m3u8
@@ -264,8 +262,8 @@ NEI_MONGGOL_TV_2_MONGOLIAN_CULTURE_CHANNEL,http://1.183.141.194:8001/hls/54/inde
 河源公共,https://tmpstream.hyrtv.cn/hygg/sd/live.m3u8
 河源综合,http://tmpstream.hyrtv.cn/xwzh/sd/live.m3u8
 河源综合,https://tmpstream.hyrtv.cn/xwzh/sd/live.m3u8
-泌阳新闻综合,http://tvpull.dxhmt.cn:9081/tv/11726-1.m3u8
 泌阳新闻综合,http://live.dxhmt.cn:9081/tv/11726-1.m3u8
+泌阳新闻综合,http://tvpull.dxhmt.cn:9081/tv/11726-1.m3u8
 法制天地,http://sc.rrs.169ol.com/PLTV/88888888/224/3221227976/index.m3u8
 泗阳综合频道,http://siyang-tv-hls.cm.jstv.com/siyang-tv/siyangzh.m3u8
 洞头综合,http://l.cztvcloud.com/channels/lantian/SXdongtou1/720p.m3u8
