@@ -5,10 +5,10 @@ CCTV-3,http://sc.rrs.169ol.com/PLTV/88888888/224/3221227435/index.m3u8
 CCTV-4,http://sc.rrs.169ol.com/PLTV/88888888/224/3221227373/index.m3u8
 CCTV-5,http://sc.rrs.169ol.com/PLTV/88888888/224/3221227491/index.m3u8
 CCTV-5+,http://sc.rrs.169ol.com/PLTV/88888888/224/3221227493/index.m3u8
-CCTV-5+,https://stream1.freetv.fun/0f7997a9c1542d6a120fa0b438502b1d74023e88e38b3555ab20aaa0bf0b591d.m3u8
 CCTV-6,http://sc.rrs.169ol.com/PLTV/88888888/224/3221227431/index.m3u8
 CCTV-7,http://sc.rrs.169ol.com/PLTV/88888888/224/3221227429/index.m3u8
 CCTV-8,http://sc.rrs.169ol.com/PLTV/88888888/224/3221227427/index.m3u8
+CCTV-8,https://stream1.freetv.fun/1c33cf1240b47f2a9dd09a8bc52489ad35135765828cbc4cdd5619da0ddd570d.m3u8
 CCTV-9,http://sc.rrs.169ol.com/PLTV/88888888/224/3221227425/index.m3u8
 CCTV-10,http://sc.rrs.169ol.com/PLTV/88888888/224/3221227375/index.m3u8
 CCTV-11,http://sc.rrs.169ol.com/PLTV/88888888/224/3221227922/index.m3u8
@@ -21,8 +21,8 @@ V4-卫视,#genre#
 湖南卫视,http://sc.rrs.169ol.com/PLTV/88888888/224/3221227369/index.m3u8
 江苏卫视,http://sc.rrs.169ol.com/PLTV/88888888/224/3221227421/index.m3u8
 北京卫视,http://sc.rrs.169ol.com/PLTV/88888888/224/3221227397/index.m3u8
-浙江卫视,http://ali-m-l.cztv.com/channels/lantian/channel001/1080p.m3u8
 浙江卫视,http://sc.rrs.169ol.com/PLTV/88888888/224/3221227351/index.m3u8
+浙江卫视,http://ali-m-l.cztv.com/channels/lantian/channel001/1080p.m3u8
 天津卫视,http://sc.rrs.169ol.com/PLTV/88888888/224/3221227343/index.m3u8
 东方卫视,http://sc.rrs.169ol.com/PLTV/88888888/224/3221227401/index.m3u8
 安徽卫视,http://sc.rrs.169ol.com/PLTV/88888888/224/3221227363/index.m3u8
@@ -83,13 +83,13 @@ CDTV-8,http://sc.rrs.169ol.com/PLTV/88888888/224/3221227920/index.m3u8
 峨眉电影,http://sc.rrs.169ol.com/PLTV/88888888/224/3221227942/index.m3u8
 达州新闻综合,http://sc.rrs.169ol.com/PLTV/88888888/224/3221227581/index.m3u8
 宜宾新闻综合,http://sc.rrs.169ol.com/PLTV/88888888/224/3221227541/index.m3u8
-乐山新闻综合,http://sc.rrs.169ol.com/PLTV/88888888/224/3221227537/index.m3u8
 乐山新闻综合,http://m3u8file.lstv.org.cn/nmip-media/channellive/channel1/playlist.m3u8
+乐山新闻综合,http://sc.rrs.169ol.com/PLTV/88888888/224/3221227537/index.m3u8
 绵阳新闻综合,http://sc.rrs.169ol.com/PLTV/88888888/224/3221227521/index.m3u8
 德阳文旅科教,http://sc.rrs.169ol.com/PLTV/88888888/224/3221227555/index.m3u8
 广安公共频道,http://live1.gatv.com.cn:85/live/GGPD.m3u8
-广安新闻综合,http://sc.rrs.169ol.com/PLTV/88888888/224/3221227543/index.m3u8
 广安新闻综合,http://live1.gatv.com.cn:85/live/XWZH.m3u8
+广安新闻综合,http://sc.rrs.169ol.com/PLTV/88888888/224/3221227543/index.m3u8
 V4-港澳台,#genre#
 面包台,https://video.bread-tv.com:8091/hls-live24/online/index.m3u8
 V4-体育,#genre#
@@ -101,6 +101,7 @@ V4-CHC,#genre#
 家庭影院,http://sc.rrs.169ol.com/PLTV/88888888/224/3221227986/index.m3u8
 影迷电影,http://sc.rrs.169ol.com/PLTV/88888888/224/3221227981/index.m3u8
 V4-其他,#genre#
+CCTV-音乐,https://stream1.freetv.fun/2b8d7f241cc69b8f2c05743118d1c67efc21054e38b4578509d60df27ba88a31.m3u8
 上蔡1套新闻综合频道,http://live.dxhmt.cn:9081/tv/11722-1.m3u8
 丘北电视台,http://m3u8.channel.wsrtv.com.cn/cms/videos/nmip-media/channellive/channel14/playlist.m3u8
 东莞生活资讯,https://stream.sun0769.com/dgrtv1/mp4tv2_1500/index.m3u8
@@ -109,16 +110,17 @@ V4-其他,#genre#
 临平新闻综合频道,http://l.cztvcloud.com/channels/lantian/SXyuhang2/720p.m3u8
 临沂公共频道,https://m3u8-channel.lytv.tv/nmip-media/channellive/channel113571/playlist.m3u8
 临沂新闻综合频道,https://m3u8-channel.lytv.tv/nmip-media/channellive/channel111841/playlist.m3u8
+临沂新闻综合频道,https://stream1.freetv.fun/70d9384786a5e1d8f973af3bab5643406bda0c89a7008eb6f322bb4c7ef9eb49.m3u8
 临颍综合,http://tvpull.dxhmt.cn:9081/tv/11122-1.m3u8
 丽水云和综合,http://l.cztvcloud.com/channels/lantian/SXyunhe1/720p.m3u8
 义马新闻综合,http://tvpull.dxhmt.cn:9081/tv/11281-1.m3u8
 义马电视,http://live.dxhmt.cn:9081/tv/11281-1.m3u8
 之江纪录,http://ali-m-l.cztv.com/channels/lantian/channel012/1080p.m3u8
 之江纪录,https://ali-m-l.cztv.com/channels/lantian/channel012/1080p.m3u8
+乌海新闻综合,https://stream1.freetv.fun/70f34e395a3ad3bed2026b85d131ce4c546c1a90efbace5bdd88fc3ae6c7e27b.m3u8
 乐山文旅生活,http://m3u8file.lstv.org.cn/nmip-media/channellive/channel12/playlist.m3u8
 云浮文旅,https://livestream.oeeee.com/slive/17807.m3u8
 云浮综合,https://livestream.oeeee.com/slive/17806.m3u8
-五台综合,https://568slnjf.live.sxmty.com/live/hls/90c8b2efeb164cc0a6c2409eed668d6b/f77cbb89ec57435b9ba4c47589c16e4f-1.m3u8
 余姚姚江文化,http://l.cztvcloud.com/channels/lantian/SXyuyao3/720p.m3u8
 余姚新闻综合,http://l.cztvcloud.com/channels/lantian/SXyuyao1/720p.m3u8
 余杭未来频道,http://l.cztvcloud.com/channels/lantian/SXyuhang3/720p.m3u8
@@ -126,6 +128,7 @@ V4-其他,#genre#
 光山新闻综合频道,http://live.dxhmt.cn:9081/tv/11522-1.m3u8
 光山综合,http://tvpull.dxhmt.cn:9081/tv/11522-1.m3u8
 兰溪新闻,http://l.cztvcloud.com/channels/lantian/SXlanxi1/720p.m3u8
+兰溪新闻,http://live.dxhmt.cn:9081/tv/10225-1.m3u8
 兰考新闻,http://tvpull.dxhmt.cn:9081/tv/10225-1.m3u8
 兴海电视,http://lived.dmqhyadmin.com/xhzhpd/sd/live.m3u8
 内乡综合,http://tvpull.dxhmt.cn:9081/tv/11325-1.m3u8
@@ -141,9 +144,9 @@ V4-其他,#genre#
 十堰新闻,http://p8.vzan.com/slowlive/034028687228317362/live.m3u8
 十堰新闻,https://p8.vzan.com/slowlive/034028687228317362/live.m3u8
 南乐电视台,http://live.dxhmt.cn:9081/tv/10923-1.m3u8
+南京十八,http://live.nbs.cn/channels/njtv/sbpd/500k.m3u8
 南京十八,http://live.nbs.cn/channels/njtv/sbpd/m3u8:500k/live.m3u8
 南京十八,https://live.nbs.cn/channels/njtv/sbpd/m3u8:500k/live.m3u8
-南京十八,http://live.nbs.cn/channels/njtv/sbpd/500k.m3u8
 南京江宁区,http://jiangning-tv-hls.cm.jstv.com/jiangning-tv/jnxwzh.m3u8
 南宁公共,http://hls.nntv.cn/nnlive/GGPD_24.m3u8
 南宁公共,https://hls.nntv.cn/nnlive/GGPD_24.m3u8
@@ -186,6 +189,7 @@ V4-其他,#genre#
 宁波余姚生活,http://l.cztvcloud.com/channels/lantian/SXyuyao2/720p.m3u8
 安徽影视,http://112.30.194.221:20080/live/d18ff95cb1fb4bbcb56215e189fc12be/hls.m3u8
 安徽经济生活,http://112.30.194.221:20080/live/eac499adad7b49ff9cfa79ba84693959/hls.m3u8
+安阳新闻,https://stream1.freetv.fun/354f570ec6eb1743546fe8536f8e228adf293d8c79a7ae5fcc1fa8065faa8a1f.m3u8
 宜兴新闻综合,http://yixing-tv-ori-hls.jstv.com/yixing-tv-ori/yixing_xw.m3u8
 宜兴紫砂频道,http://yixing-tv-ori-hls.jstv.com/yixing-tv-ori/yixing_zs.m3u8
 宜阳综合频道,http://tvpull.dxhmt.cn:9081/tv/10327-1.m3u8
@@ -217,6 +221,7 @@ V4-其他,#genre#
 新沂新闻,http://live.xysrmt.cn/xwzh/sd/live.m3u8
 新沂生活,http://live.xysrmt.cn/shpd/sd/live.m3u8
 新蔡,http://live.dxhmt.cn:9081/tv/11729-1.m3u8
+新蔡综合,http://tvpull.dxhmt.cn:9081/tv/11729-1.m3u8
 新郑综合,http://live.dxhmt.cn:9081/tv/10184-1.m3u8
 新闻频道,http://ali-m-l.cztv.com/channels/lantian/channel007/1080p.m3u8
 无锡娱乐,http://stream.thmz.com/wxtv2/playlist.m3u8
@@ -270,7 +275,6 @@ V4-其他,#genre#
 济宁综合,http://lives.jnnews.tv/video/s10001-JNTV-1/index.m3u8
 济源电视1套,http://live.dxhmt.cn:9081/tv/19001-1.m3u8
 浙江_Ⅰ_绍兴影视,http://live.shaoxing.com.cn/video/s10001-sxtv3/index.m3u8
-浙江公共,https://ct-m-l.cztv.com/channels/lantian/channel007/1080p.m3u8
 浙江少儿,https://ali-m-l.cztv.com/channels/lantian/channel008/1080p.m3u8
 浙江教科,https://ali-m-l.cztv.com/channels/lantian/channel004/1080p.m3u8
 浙江新闻,https://ali-m-l.cztv.com/channels/lantian/channel007/1080p.m3u8
@@ -292,7 +296,6 @@ V4-其他,#genre#
 滁州科教频道,http://live.cztv.cc:85/live/sjpd.m3u8
 滑县1套新闻综合频道,http://live.dxhmt.cn:9081/tv/10526-1.m3u8
 漳州新闻,http://31182.hlsplay.aodianyun.com/lms_31182/tv_channel_175.m3u8
-漳州新闻综合,https://31182.hlsplay.aodianyun.com/lms_31182/tv_channel_175.m3u8
 潞城新闻综合,http://59.48.42.6:62204/lucheng.m3u8
 潢川新闻综合频道,http://live.dxhmt.cn:9081/tv/11526-1.m3u8
 潢川综合,http://tvpull.dxhmt.cn:9081/tv/11526-1.m3u8
@@ -325,7 +328,6 @@ V4-其他,#genre#
 确山新闻综合频道,http://live.dxhmt.cn:9081/tv/11725-1.m3u8
 福建乡村,http://110.80.17.38:9901/tsfile/live/0130_1.m3u8
 禹州综合,http://tvpull.dxhmt.cn:9081/tv/11081-1.m3u8
-禹州综合,http://live.dxhmt.cn:9081/tv/11081-1.m3u8
 精彩影视高清,http://sc.rrs.169ol.com/PLTV/88888888/224/3221227980/index.m3u8
 绍兴公共,http://live.shaoxing.com.cn/video/s10001-sxtv2/index.m3u8
 绍兴新闻,http://live.shaoxing.com.cn/video/s10001-sxhb/index.m3u8
@@ -358,6 +360,7 @@ V4-其他,#genre#
 赤峰新闻综合,https://livestream-bt.nmtv.cn/nmtv/2351general.m3u8?txSecret=8857087aeec2cec44d178a18550fdb8a&txTime=771E8800
 辽宁公共,http://dassby.qqff.top:99/live/辽宁公共/index.m3u8
 辽宁北方,http://dassby.qqff.top:99/live/辽宁北方/index.m3u8
+辽宁北方,https://stream1.freetv.fun/3ea85ebabebe957a33bd4b6658480a524fbe90e804e2bda958d84da0322bcc38.m3u8
 辽宁影视剧,http://dassby.qqff.top:99/live/辽宁影视剧/index.m3u8
 辽宁生活,http://dassby.qqff.top:99/live/辽宁生活/index.m3u8
 辽宁经济,http://dassby.qqff.top:99/live/辽宁经济/index.m3u8
